@@ -1,0 +1,13 @@
+h1 {
+  color: purple;
+  font-size: 40px;
+}
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
